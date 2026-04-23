@@ -1,0 +1,4 @@
+SECCION 1
+LAB TRABAJANDO CON LA FUNCION ()PRINT
+
+Este laboratorio consistió en la primera toma de contacto con la directiva print() en Python para comprender cómo el intérprete procesa las instrucciones de salida y la importancia de la sintaxis estricta. Durante el ejercicio se validó que tanto las comillas dobles como las simples funcionan correctamente para definir cadenas de texto, mientras que las pruebas de omisión de delimitadores permitieron identificar errores críticos como el NameError, generado al intentar interpretar texto sin comillas como una variable no definida, y el SyntaxError, derivado de la ausencia de paréntesis obligatorios en Python 3. Asimismo, se exploró el control de flujo mediante la ejecución de múltiples funciones en una sola línea utilizando el punto y coma como separador de sentencias, consolidando así el dominio de las reglas básicas de codificación y depuración inicial en el lenguaje.
