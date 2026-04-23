@@ -4,3 +4,6 @@ Este laboratorio consistió en la primera toma de contacto con la directiva prin
 
 LAB 2 LA FUNCIÓN PRINT() Y SUS ARGUMENTOS
 Este laboratorio demuestra el uso de los argumentos con nombre sep y end. Se utilizó sep="***" para definir un separador personalizado entre las cadenas de texto y end="..." para modificar la terminación predeterminada de la función print, logrando que la siguiente instrucción se imprima en la misma línea y concatenada con los puntos suspensivos.
+
+LAB 3 DANDO FORMA A LA SALIDA
+En esta primera parte me puse a "jugar" con la función print para ver hasta dónde llegaba. Aprendí que Python es súper delicado con las mayúsculas (si pones Print con la primera en mayúscula, ya no sirve) y que los paréntesis y comillas son sagrados; si quitas uno, el programa se rompe de una. También logré simplificar el dibujo de la flecha usando el truco de \n, que sirve para saltar de línea sin tener que escribir mil veces la palabra print. Al final, experimenté con el uso de sep y end para pegar palabras o ponerles símbolos en el medio, lo que me dio mucho más control sobre cómo se ve la información en la pantalla.
