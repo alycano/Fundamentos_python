@@ -8,3 +8,7 @@ En este ejercicio hice un convertidor de distancia para pasar de millas a kilóm
 LAB 3 OPERADORES Y EXPRESIONES
 
 En este reto me tocó pasar una ecuación algebraica a código de Python. Aprendí que en programación no se puede simplemente poner el número al lado de la letra como en matemáticas (3x), sino que siempre hay que poner el asterisco para multiplicar (3 * x). También usé las potencias con el doble asterisco para elevar la x al cubo y al cuadrado. Fue una buena práctica para confirmar que Python sigue las reglas de prioridad de operaciones y que, al convertir la x a flotante desde el inicio, el resultado de la variable y siempre sale con su punto decimal.
+
+LAB 4 EJERCICIOS DE ALGORITMOS
+
+En este último laboratorio de la sección me puse en los zapatos de un desarrollador de videojuegos para resolver 16 algoritmos básicos. Usé variables para guardar datos como la vida, el daño y el tiempo de juego, y apliqué fórmulas para sacar promedios y porcentajes. Lo que más me sirvió fue practicar cómo convertir minutos a horas usando la división entera y el módulo, y ver cómo los operadores que ya conocía se aplican a situaciones reales de un gameplay. Con esto ya entiendo mucho mejor cómo las variables ayudan a que un juego lleve la cuenta de todo lo que hace el jugador.
